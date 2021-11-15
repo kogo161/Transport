@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using Transport.Domain.Models.DbEntities;
 using Transport.Domain.Models.Requests;
 using Transport.Domain.Models.Response;
@@ -47,6 +48,24 @@ namespace Transport.Infrastructure.Services
         {
             _unitOfWork.User.Delete(id);
             _unitOfWork.Save();
+        }
+
+        public List<UserResponse> GetUserWithTransport(int id)
+        {
+            List<UserResponse> response = new List<UserResponse>();
+            IEnumerable<UserEntity> users = _unitOfWork.User.GetUserWithTransport(id);
+            foreach (var item in users)
+            {
+                response.Add(new UserResponse
+                {
+                    FirstName = item.FirstName,
+                    LastName = item.LastName,
+                    PersonalNumber = item.PersonalNumber,
+                    Transports = item.Transports
+                });
+            }
+
+            return response;
         }
     }
 }

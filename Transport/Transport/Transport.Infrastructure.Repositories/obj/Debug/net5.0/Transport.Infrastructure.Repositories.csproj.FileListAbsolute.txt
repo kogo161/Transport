@@ -16,3 +16,4 @@
 /Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Infrastructure.Repositories/obj/Debug/net5.0/Transport.Infrastructure.Repositories.dll
 /Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Infrastructure.Repositories/obj/Debug/net5.0/ref/Transport.Infrastructure.Repositories.dll
 /Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Infrastructure.Repositories/obj/Debug/net5.0/Transport.Infrastructure.Repositories.pdb
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Infrastructure.Repositories/obj/Debug/net5.0/Transport.Infrastructure.Repositories.csproj.CopyComplete

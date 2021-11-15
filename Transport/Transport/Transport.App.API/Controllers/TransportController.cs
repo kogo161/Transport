@@ -1,3 +1,4 @@
+using System;
 using Microsoft.AspNetCore.Mvc;
 using Transport.Domain.Models.Requests;
 using Transport.Domain.Models.Response;
@@ -19,26 +20,58 @@ namespace Transport.App.API.Controllers
         [HttpGet]
         public TransportResponse GetTransport(int id)
         {
-            var res = _transportService.GetTrasport(id);
-            return res;
+            try
+            {
+                var res = _transportService.GetTrasport(id);
+                return res;
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+                throw;
+            }
         }
 
         [HttpPut]
         public void TransportUpdate(TransportRequest request)
         {
-            _transportService.UpdateTransport(request);
+            try
+            {
+                _transportService.UpdateTransport(request);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+                throw;
+            }
         }
 
         [HttpPost]
         public void AddTransport(TransportRequest request)
         {
-            _transportService.AddTransport(request);
+            try
+            {
+                _transportService.AddTransport(request);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+                throw;
+            }
         }
 
         [HttpDelete]
         public void DeleteTrasport(int id)
         {
-            _transportService.Delete(id);
+            try
+            {
+                _transportService.Delete(id);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+                throw;
+            }
         }
     }
 }

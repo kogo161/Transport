@@ -12,3 +12,4 @@
 /Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Infrastructure.Store/obj/Debug/net5.0/Transport.Infrastructure.Store.dll
 /Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Infrastructure.Store/obj/Debug/net5.0/ref/Transport.Infrastructure.Store.dll
 /Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Infrastructure.Store/obj/Debug/net5.0/Transport.Infrastructure.Store.pdb
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Infrastructure.Store/obj/Debug/net5.0/Transport.Infrastructure.Store.csproj.CopyComplete

@@ -34,7 +34,8 @@ namespace Transport.App.API
         {
             services.AddDbContext<TransportContext>(options =>
                 options.UseSqlServer(
-                    Configuration.GetConnectionString("DefaultConnection"), b => b.MigrationsAssembly("Transport.App.API")));
+                    Configuration.GetConnectionString("DefaultConnection"),
+                    b => b.MigrationsAssembly("Transport.App.API")));
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
@@ -43,6 +44,7 @@ namespace Transport.App.API
 
             services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.AddScoped<ITransportService, TransportService>();
+            services.AddScoped<IUserService, UserService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

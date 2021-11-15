@@ -1,0 +1,14 @@
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Domain.Services/bin/Debug/net5.0/Transport.Domain.Services.deps.json
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Domain.Services/bin/Debug/net5.0/Transport.Domain.Services.dll
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Domain.Services/bin/Debug/net5.0/ref/Transport.Domain.Services.dll
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Domain.Services/bin/Debug/net5.0/Transport.Domain.Services.pdb
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Domain.Services/bin/Debug/net5.0/Transport.Domain.Models.dll
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Domain.Services/bin/Debug/net5.0/Transport.Domain.Models.pdb
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Domain.Services/obj/Debug/net5.0/Transport.Domain.Services.csproj.AssemblyReference.cache
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Domain.Services/obj/Debug/net5.0/Transport.Domain.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Domain.Services/obj/Debug/net5.0/Transport.Domain.Services.AssemblyInfoInputs.cache
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Domain.Services/obj/Debug/net5.0/Transport.Domain.Services.AssemblyInfo.cs
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Domain.Services/obj/Debug/net5.0/Transport.Domain.Services.csproj.CoreCompileInputs.cache
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Domain.Services/obj/Debug/net5.0/Transport.Domain.Services.dll
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Domain.Services/obj/Debug/net5.0/ref/Transport.Domain.Services.dll
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Domain.Services/obj/Debug/net5.0/Transport.Domain.Services.pdb

@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Transport.Domain.Models\Transport.Domain.Models.csproj" />
+      <ProjectReference Include="..\Transport.Domain.Repositories\Transport.Domain.Repositories.csproj" />
+      <ProjectReference Include="..\Transport.Domain.Services\Transport.Domain.Services.csproj" />
+      <ProjectReference Include="..\Transport.Infrastructure.Repositories\Transport.Infrastructure.Repositories.csproj" />
+    </ItemGroup>
+
+</Project>

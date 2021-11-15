@@ -1,0 +1,16 @@
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Domain.Repositories/bin/Debug/net5.0/Transport.Domain.Repositories.deps.json
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Domain.Repositories/bin/Debug/net5.0/Transport.Domain.Repositories.dll
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Domain.Repositories/bin/Debug/net5.0/ref/Transport.Domain.Repositories.dll
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Domain.Repositories/bin/Debug/net5.0/Transport.Domain.Repositories.pdb
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Domain.Repositories/bin/Debug/net5.0/Transport.Domain.Models.dll
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Domain.Repositories/bin/Debug/net5.0/Transport.Domain.Models.pdb
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Domain.Repositories/obj/Debug/net5.0/Transport.Domain.Repositories.csproj.AssemblyReference.cache
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Domain.Repositories/obj/Debug/net5.0/Transport.Domain.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Domain.Repositories/obj/Debug/net5.0/Transport.Domain.Repositories.AssemblyInfoInputs.cache
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Domain.Repositories/obj/Debug/net5.0/Transport.Domain.Repositories.AssemblyInfo.cs
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Domain.Repositories/obj/Debug/net5.0/Transport.Domain.Repositories.csproj.CoreCompileInputs.cache
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Domain.Repositories/obj/Debug/net5.0/Transport.Domain.Repositories.dll
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Domain.Repositories/obj/Debug/net5.0/ref/Transport.Domain.Repositories.dll
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Domain.Repositories/obj/Debug/net5.0/Transport.Domain.Repositories.pdb
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Domain.Repositories/bin/Debug/net5.0/Transport.Infrastructure.Store.dll
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Domain.Repositories/bin/Debug/net5.0/Transport.Infrastructure.Store.pdb

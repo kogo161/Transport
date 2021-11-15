@@ -1,0 +1,12 @@
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Domain.Models/bin/Debug/net5.0/Transport.Domain.Models.deps.json
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Domain.Models/bin/Debug/net5.0/Transport.Domain.Models.dll
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Domain.Models/bin/Debug/net5.0/ref/Transport.Domain.Models.dll
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Domain.Models/bin/Debug/net5.0/Transport.Domain.Models.pdb
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Domain.Models/obj/Debug/net5.0/Transport.Domain.Models.csproj.AssemblyReference.cache
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Domain.Models/obj/Debug/net5.0/Transport.Domain.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Domain.Models/obj/Debug/net5.0/Transport.Domain.Models.AssemblyInfoInputs.cache
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Domain.Models/obj/Debug/net5.0/Transport.Domain.Models.AssemblyInfo.cs
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Domain.Models/obj/Debug/net5.0/Transport.Domain.Models.csproj.CoreCompileInputs.cache
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Domain.Models/obj/Debug/net5.0/Transport.Domain.Models.dll
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Domain.Models/obj/Debug/net5.0/ref/Transport.Domain.Models.dll
+/Users/sabakoghuashvili/Desktop/Transport/Transport/Transport.Domain.Models/obj/Debug/net5.0/Transport.Domain.Models.pdb
